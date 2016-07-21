@@ -1,4 +1,5 @@
-# Smart Console: *Take the control of your browser console log messages*
+# Smart Console: 
+## *Take the control of your browser console log messages*
 
 ## What is it?
 **Smart Console** is a **Javascript lib** to show ***console log*** messages in a colored an clearer way. 
